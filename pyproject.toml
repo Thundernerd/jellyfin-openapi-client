@@ -1,5 +1,5 @@
 [project]
-name = "openapi_client"
+name = "jellfyin-openapi-client"
 version = "1.0.0"
 description = "Jellyfin API"
 authors = [
@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/GIT_USER_ID/GIT_REPO_ID"
+Repository = "https://github.com/Thundernerd/jellyfin-openapi-client"
 
 [tool.poetry]
 requires-poetry = ">=2.0"
