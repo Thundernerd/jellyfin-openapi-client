@@ -1,5 +1,5 @@
 [project]
-name = "jellfyin-openapi-client"
+name = "jellfyin_openapi_client"
 version = "1.0.0"
 description = "Jellyfin API"
 authors = [
